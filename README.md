@@ -7,6 +7,8 @@
 
 * Battery_and_Channel_Power_Measurement_System.m
     * Data_Process.m
+      * Complement.m
+      * Window_Avg.m
     * Data_Output.m
     * AB_Per_RSSI.m
 
